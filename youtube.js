@@ -11,7 +11,7 @@ function onYouTubeIframeAPIReady() {
     youTubePlayer1 = new YT.Player('youTubePlayer1', {
         width: '1000',
         height: '563',
-        videoId: 'TLF8lbBPeSk',
+        videoId: 'KvVVSITOVUc',
         playerVars: {rel: 0},//추천영상 안보여주게 설정
         events: {
           'onReady': onPlayerReady, //로딩할때 이벤트 실행
